@@ -18,3 +18,5 @@ python src/sync.py
 ```
 
 Settings are read from `config/production.env`.
+
+Last update: 13:36 02/11/2026
